@@ -1,0 +1,479 @@
+.about-me-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-me-about-me {
+  width: 100%;
+  height: 3619px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.about-me-header {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 153px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-me-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  height: 153px;
+  position: absolute;
+}
+.about-me-text {
+  top: 63.375px;
+  left: 67px;
+  color: rgba(233, 241, 247, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text02 {
+  top: var(--dl-space-space-fourunits);
+  color: rgba(233, 241, 247, 1);
+  right: -100px;
+  width: var(--dl-size-size-xlarge);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text04 {
+  top: var(--dl-space-space-fourunits);
+  color: rgba(233, 241, 247, 1);
+  right: 100px;
+  width: var(--dl-size-size-xlarge);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text06 {
+  top: 286px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  width: 610px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text08 {
+  top: 386px;
+  left: 365px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text10 {
+  top: 523px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  width: 641px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-photography {
+  top: 939px;
+  left: 80px;
+  width: 610px;
+  height: 668px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.about-me-text15 {
+  color: rgba(0, 0, 0, 1);
+  width: 610px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text17 {
+  top: 139px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 273px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text19 {
+  top: 2015px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 273px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-group3 {
+  top: 1023px;
+  left: 447px;
+  width: 913px;
+  height: 834px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.about-me-fast1 {
+  top: 55px;
+  left: 0px;
+  width: 452px;
+  height: 300px;
+  position: absolute;
+}
+.about-me-rom1 {
+  top: 0px;
+  left: 470px;
+  width: 435px;
+  height: 288px;
+  position: absolute;
+}
+.about-me-making-space1 {
+  top: 378px;
+  left: 99px;
+  width: 342px;
+  height: 456px;
+  position: absolute;
+}
+.about-me-red-doors1 {
+  top: 323px;
+  left: 463px;
+  width: 450px;
+  height: 298px;
+  position: absolute;
+}
+.about-me-text21 {
+  top: 641px;
+  left: 474px;
+  color: rgba(0, 0, 0, 1);
+  width: 431px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text23 {
+  top: 1927px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 408px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-group4 {
+  top: 1965px;
+  left: 532px;
+  width: 689px;
+  height: 955px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.about-me-climate-anxiety11 {
+  top: 0px;
+  left: 0px;
+  width: 689px;
+  height: 388px;
+  position: absolute;
+}
+.about-me-text25 {
+  top: 409px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text27 {
+  top: 907px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-class-room1 {
+  top: 498px;
+  left: 0px;
+  width: 689px;
+  height: 388px;
+  position: absolute;
+}
+.about-me-group5 {
+  top: 313px;
+  left: 821px;
+  width: 507.10888671875px;
+  height: 495px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.about-me-rectangle60 {
+  top: 38px;
+  left: 43px;
+  width: 464px;
+  height: 457px;
+  position: absolute;
+}
+.about-me-rectangle55 {
+  top: 0px;
+  left: 0px;
+  width: 464px;
+  height: 457px;
+  position: absolute;
+}
+.about-me-pxl202312062047294441 {
+  top: 0px;
+  left: 0px;
+  width: 465px;
+  height: 465px;
+  position: absolute;
+}
+.about-me-footer {
+  top: 3000px;
+  left: 0px;
+  width: 1440px;
+  height: 619px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-me-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  height: 619px;
+  position: absolute;
+}
+.about-me-text32 {
+  top: 364px;
+  left: 34px;
+  color: rgba(232, 231, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.about-me-text34 {
+  top: 156px;
+  left: 43px;
+  color: rgba(232, 231, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text36 {
+  top: 41px;
+  left: 43px;
+  color: rgba(232, 231, 211, 1);
+  width: 610px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text38 {
+  top: 70px;
+  left: 698px;
+  color: rgba(232, 231, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text40 {
+  top: 70px;
+  left: 899px;
+  color: rgba(232, 231, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text42 {
+  top: 70px;
+  left: 1147px;
+  color: rgba(232, 231, 211, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-me-text44 {
+  top: 330px;
+  color: rgba(255, 255, 255, 1);
+  right: -150px;
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Texturina;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.about-me-text51 {
+  top: 421px;
+  left: 32px;
+  color: rgba(255, 255, 255, 1);
+  width: 893px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Urbanist;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
